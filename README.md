@@ -19,5 +19,5 @@ Then type the input filename next to the program name
 ~~~
 
 ## Used program
-z3 - Z3 is a theorem prover from Microsoft Research.
+z3 - Z3 is a theorem prover from Microsoft Research.<br>
 c program
