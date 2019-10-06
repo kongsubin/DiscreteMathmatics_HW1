@@ -3,7 +3,7 @@ TARGETS = puzzle
 
 $(TARGETS) : 
 
-        $(CC) puzzle.c -o puzzle 
+    $(CC) puzzle.c -o puzzle 
 
 clean : 
-        rm puzzle
+    rm puzzle
