@@ -17,7 +17,7 @@ int main(int argc, char **argv){
 	  return -1;
     }    
     // stdin to buffer
-    FILE *fp = fopen(argv[1], "r");
+    FILE *fp = fopen("/dev/stdin", "r");
 
     // Count rows and Save the file text
     while (!feof(fp)){
