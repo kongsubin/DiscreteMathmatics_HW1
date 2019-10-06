@@ -18,6 +18,12 @@ Then type the input filename next to the program name
 ~@peace:~/DiscreteMathmatics$   ./puzzle input.txt
 ~~~
 
+remove puzzle 
+
+~~~
+~@peace:~/DiscreteMathmatics$   make clean
+~~~
+
 ## Used program
 z3 - Z3 is a theorem prover from Microsoft Research.<br>
 c program
